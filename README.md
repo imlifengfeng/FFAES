@@ -252,6 +252,3 @@ Add FFAES folder to your project
 + (NSString *)decryptBase64andAESToStr:(NSString *)str key:(NSString *)key;
 
 ```
-### License
-
-Usage is provided under the <a href="http://opensource.org/licenses/MIT">MIT</a> License. See <a href="https://github.com/imlifengfeng/FFAES/blob/master/LICENSE">LICENSE</a> for full details.
