@@ -1,9 +1,10 @@
 # FFAES
 
-------
 [![Version](https://img.shields.io/cocoapods/v/FFAES.svg?style=flat)](http://cocoapods.org/pods/FFAES)
 [![License](https://img.shields.io/cocoapods/l/FFAES.svg?style=flat)](http://cocoapods.org/pods/FFAES)
 [![Platform](https://img.shields.io/cocoapods/p/FFAES.svg?style=flat)](http://cocoapods.org/pods/FFAES)
+
+### [中文教程](https://github.com/imlifengfeng/FFAES/blob/master/README.md#中文使用说明)
 
 ### Features
 
