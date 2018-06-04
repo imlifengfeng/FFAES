@@ -143,18 +143,17 @@ Usage is provided under the <a href="http://opensource.org/licenses/MIT">MIT</a>
 
 ### 安装
 #### CocoaPods
-To install FFAES using CocoaPods, please integrate it in your existing Podfile, or create a new Podfile:
 
 ```ruby
 target 'MyApp' do
   pod 'FFAES'
 end
 ```
-Then run `pod install`.
+运行 `pod install`.
 
 #### 手动安装
 
-Add FFAES folder to your project
+添加 FFAES 文件夹到自己项目
 
 ### 使用方法
 ```objective-c
